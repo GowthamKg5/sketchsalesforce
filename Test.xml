@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Lightning Design System Builder Pattern</title>
+<description>
+This is a collection of Sketch resources for designers, developers and admins to create Lightning experiences using Lighting Design System.
+</description>
+<image>
+<url>
+https://www.lightningdesignsystem.com/assets/images/sketch-library-builder.png
+</url>
+<title>Lightning Design System Builder Pattern</title>
+</image>
+<generator>Sketch</generator>
+<item>
+<title>Lightning Design System Builder Pattern</title>
+<pubDate>Wed, 12 Feb 2020 12:33:43 +0000</pubDate>
+<enclosure url="https://github.com/GowthamKg5/sketchsalesforce/raw/master/SLDS%20Icon%20Library.sketch" type="application/octet-stream" sparkle:version="1.0.0"/>
+</item>
+</channel>
+</rss>
+
+
